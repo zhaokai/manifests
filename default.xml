@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <remote  name="origin"
+           fetch="git@github.com:zhaokai/"
+           review="review.source.android.com" />
+  <default revision="master"
+           remote="origin" />
+
+  <project path="other/help-example" name="help-example" />
+  <project path="code/example" name="example" />
+
+</manifest>
